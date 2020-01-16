@@ -28,3 +28,9 @@ C:\Projetos\RedisWindowsClient\RedisWindowsClient\bin\Debug\netcoreapp3.0\Pipeli
 C:\Projetos\RedisWindowsClient\RedisWindowsClient\bin\Debug\netcoreapp3.0\StackExchange.Redis.dll
 C:\Projetos\RedisWindowsClient\RedisWindowsClient\bin\Debug\netcoreapp3.0\System.IO.Pipelines.dll
 C:\Projetos\RedisWindowsClient\RedisWindowsClient\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Projetos\RedisWindowsClient\RedisWindowsClient\bin\Debug\netcoreapp3.0\ServiceStack.Common.dll
+C:\Projetos\RedisWindowsClient\RedisWindowsClient\bin\Debug\netcoreapp3.0\ServiceStack.Interfaces.dll
+C:\Projetos\RedisWindowsClient\RedisWindowsClient\bin\Debug\netcoreapp3.0\ServiceStack.Redis.dll
+C:\Projetos\RedisWindowsClient\RedisWindowsClient\bin\Debug\netcoreapp3.0\ServiceStack.Text.dll
+C:\Projetos\RedisWindowsClient\RedisWindowsClient\obj\Debug\netcoreapp3.0\MainRedis.g.cs
+C:\Projetos\RedisWindowsClient\RedisWindowsClient\obj\Debug\netcoreapp3.0\MainRedis.baml
